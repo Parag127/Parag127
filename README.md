@@ -41,6 +41,8 @@
   <a href="https://instagram.com/parag_07__"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://leetcode.com/u/Parag127/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://www.codechef.com/users/rcpit251102082">
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 </p>
 
 ### 📊 GitHub Stats
